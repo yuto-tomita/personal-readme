@@ -1,4 +1,4 @@
-### Hi　I'm yuto-tomita👻
+### Hi I'm yuto-tomita👻
 
 - Fledgling front-end engineer😎
 - I can do a little vue🐱
