@@ -1,6 +1,4 @@
-### Hi I'm yuto-tomita👻
+### about me
 
-- Fledgling front-end engineer😎
-- I can do a little vue🐱
-- I'm learning a lot of things🔥
-- I'm interested in react😄
+こんにちは。冨田優斗といいます。
+フロントエンドの技術が好きです。
